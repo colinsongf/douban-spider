@@ -6,5 +6,5 @@
 
 movies.csv :
 ```
-index,date,movie_id,
+index,date,movie_id
 ```

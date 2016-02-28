@@ -1,0 +1,10 @@
+cache/*
+.idea/*
+*.pyc
+*.pkl
+*.txt
+data/*
+data*/
+dataset/*
+*/output/
+*/data
